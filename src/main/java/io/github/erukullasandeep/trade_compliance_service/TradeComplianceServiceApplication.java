@@ -8,6 +8,7 @@ public class TradeComplianceServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TradeComplianceServiceApplication.class, args);
+
 	}
 
 }
